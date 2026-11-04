@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,16 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kunalllll18/LeetCode/tree/master/0125-valid-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
