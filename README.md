@@ -41,4 +41,16 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
