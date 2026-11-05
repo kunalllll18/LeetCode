@@ -9,6 +9,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
+| [0746-min-cost-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
