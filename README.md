@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
 | [0198-house-robber](https://github.com/kunalllll18/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
@@ -30,6 +31,7 @@ My LeetCode solutions and DSA practice in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/kunalllll18/LeetCode/tree/master/0125-valid-palindrome) |
 ## Depth-First Search
 |  |
