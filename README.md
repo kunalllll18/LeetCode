@@ -54,9 +54,14 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kunalllll18/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/kunalllll18/LeetCode/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/kunalllll18/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
