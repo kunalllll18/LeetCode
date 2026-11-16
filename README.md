@@ -63,10 +63,12 @@ My LeetCode solutions and DSA practice in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/kunalllll18/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kunalllll18/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kunalllll18/LeetCode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/kunalllll18/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kunalllll18/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
