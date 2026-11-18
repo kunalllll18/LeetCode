@@ -10,6 +10,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
 | [0198-house-robber](https://github.com/kunalllll18/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
 | [0746-min-cost-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -18,11 +19,13 @@ My LeetCode solutions and DSA practice in Java.
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -50,6 +53,7 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kunalllll18/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +71,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0190-reverse-bits](https://github.com/kunalllll18/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kunalllll18/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunalllll18/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kunalllll18/LeetCode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -77,4 +82,8 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kunalllll18/LeetCode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
