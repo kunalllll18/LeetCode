@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/kunalllll18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kunalllll18/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/kunalllll18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kunalllll18/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/kunalllll18/LeetCode/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
