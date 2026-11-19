@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/kunalllll18/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kunalllll18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -86,4 +89,8 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
