@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0001-two-sum](https://github.com/kunalllll18/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/kunalllll18/LeetCode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/kunalllll18/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kunalllll18/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/kunalllll18/LeetCode/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@ My LeetCode solutions and DSA practice in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kunalllll18/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kunalllll18/LeetCode/tree/master/0704-binary-search) |
