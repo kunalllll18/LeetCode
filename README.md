@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/kunalllll18/LeetCode/tree/master/0463-island-perimeter) |
+| [0704-binary-search](https://github.com/kunalllll18/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/kunalllll18/LeetCode/tree/master/0704-binary-search) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
