@@ -55,6 +55,7 @@ My LeetCode solutions and DSA practice in Java.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kunalllll18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kunalllll18/LeetCode/tree/master/0231-power-of-two) |
@@ -92,9 +93,14 @@ My LeetCode solutions and DSA practice in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
