@@ -98,6 +98,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0035-search-insert-position](https://github.com/kunalllll18/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/kunalllll18/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kunalllll18/LeetCode/tree/master/0704-binary-search) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -107,4 +108,8 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kunalllll18/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
