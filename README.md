@@ -36,12 +36,14 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0125-valid-palindrome](https://github.com/kunalllll18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kunalllll18/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/kunalllll18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
+| [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,4 +116,12 @@ My LeetCode solutions and DSA practice in Java.
 | ------- |
 | [0278-first-bad-version](https://github.com/kunalllll18/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kunalllll18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
