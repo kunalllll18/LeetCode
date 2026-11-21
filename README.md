@@ -99,6 +99,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0069-sqrtx](https://github.com/kunalllll18/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kunalllll18/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/kunalllll18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/kunalllll18/LeetCode/tree/master/0704-binary-search) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -112,4 +113,5 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kunalllll18/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/kunalllll18/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
