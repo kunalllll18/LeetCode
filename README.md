@@ -38,6 +38,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunalllll18/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kunalllll18/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/kunalllll18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0202-happy-number](https://github.com/kunalllll18/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kunalllll18/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kunalllll18/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/kunalllll18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
