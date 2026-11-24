@@ -25,6 +25,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0217-contains-duplicate](https://github.com/kunalllll18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunalllll18/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalllll18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ My LeetCode solutions and DSA practice in Java.
 | [0125-valid-palindrome](https://github.com/kunalllll18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kunalllll18/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunalllll18/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalllll18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kunalllll18/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kunalllll18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -131,4 +133,12 @@ My LeetCode solutions and DSA practice in Java.
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/kunalllll18/LeetCode/tree/master/0844-backspace-string-compare) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalllll18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kunalllll18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
